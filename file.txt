@@ -1,0 +1,11 @@
+* for one commit, we can assign "n" number of tags
+* Same tag cannot be assigned to more than one commit.
+===========================================================================================================================
+GITHUB Account creation:
+===========================================================================================================================
+1. Repository creation and deletion
+2. Branch creation and deletion
+3. Tag creation and deletion
+4. How to add/remove/update files and commit changes
+5. How to list the commits and check the details of the commits?
+============================================================================================================================
